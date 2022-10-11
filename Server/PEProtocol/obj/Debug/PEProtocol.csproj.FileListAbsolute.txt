@@ -1,0 +1,7 @@
+D:\Desktop\15\Client\Assets\Scripts\Net\PEProtocol.dll
+D:\Desktop\15\Client\Assets\Scripts\Net\PEProtocol.pdb
+D:\Desktop\15\Server\PEProtocol\obj\Debug\PEProtocol.csproj.AssemblyReference.cache
+D:\Desktop\15\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CoreCompileInputs.cache
+D:\Desktop\15\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CopyComplete
+D:\Desktop\15\Server\PEProtocol\obj\Debug\PEProtocol.dll
+D:\Desktop\15\Server\PEProtocol\obj\Debug\PEProtocol.pdb

@@ -1,0 +1,13 @@
+D:\Desktop\15\Server\Server\bin\Debug\Server.exe.config
+D:\Desktop\15\Server\Server\bin\Debug\Server.exe
+D:\Desktop\15\Server\Server\bin\Debug\Server.pdb
+D:\Desktop\15\Server\Server\bin\Debug\MySql.Data.dll
+D:\Desktop\15\Server\Server\bin\Debug\PEProtocol.dll
+D:\Desktop\15\Server\Server\bin\Debug\PESocket.dll
+D:\Desktop\15\Server\Server\bin\Debug\PEProtocol.pdb
+D:\Desktop\15\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Desktop\15\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\15\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Desktop\15\Server\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Desktop\15\Server\Server\obj\Debug\Server.exe
+D:\Desktop\15\Server\Server\obj\Debug\Server.pdb
